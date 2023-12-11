@@ -1,0 +1,1 @@
+var SubDomain = 'caansoft'; var SiteID = 'B9DAA1A1-591D-4F14-93A2-6AECCF01DF43'; var host = 'https://api.eraconnect.net';
